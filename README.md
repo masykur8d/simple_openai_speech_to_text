@@ -13,7 +13,7 @@ This project provides a simple way to transcribe audio files to text using OpenA
 1.  Clone the repository:
 
     ```bash
-    git clone [<repository_url>](https://github.com/masykur8d/simple_openai_speech_to_text.git)
+    git clone https://github.com/masykur8d/simple_openai_speech_to_text.git
     cd simple_openai_speech_to_text
     ```
 2.  Create a virtual environment:
