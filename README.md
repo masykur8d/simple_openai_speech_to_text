@@ -1,5 +1,7 @@
 # Simple OpenAI Speech-to-Text and Summarization
 
+[日本語版はこちら](README_ja.md)
+
 This project provides a simple way to transcribe audio files to text using OpenAI's Whisper model and then summarize the transcribed text using OpenAI's GPT-4 model.
 
 ## Prerequisites
