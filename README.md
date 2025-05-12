@@ -42,9 +42,6 @@ This project provides a simple way to transcribe audio files to text using OpenA
 
     This will transcribe the audio files, summarize the transcriptions, and save the results to `all_translation_result.xlsx`.
 
-## Contributing
-
-Please read `CONTRIBUTING.md` for details on how to contribute to this project.
 
 ## License
 
