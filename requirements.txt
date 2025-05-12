@@ -1,0 +1,4 @@
+openai
+aiometer
+tenacity
+pandas
